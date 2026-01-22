@@ -1,0 +1,2 @@
+This is another text file inside the folder folder
+
